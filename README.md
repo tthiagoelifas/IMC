@@ -21,3 +21,9 @@ Projeto que irá calcular o IMC do usuário através dos dados de altura e peso 
 
 ![preview](./assets/preview.png)
 
+
+## Site do Projeto
+
+
+[Link do Projeto](https://tthiagoelifas.github.io/IMC/)
+
